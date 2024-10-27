@@ -1,16 +1,14 @@
-## Hi there 👋
+###Hi there, I'm Maria! 👋
+I'm a software engineer student from the Dominican Republic 🌎, with a passion for building systems that solve real-world problems. I’m currently working on projects in .NET, Angular, and SQL, and actively exploring cybersecurity topics.
 
-<!--
-**MariaGarce/MariaGarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 About Me
 
-Here are some ideas to get you started:
+🧑‍💻 One Year in Development: Actively building skills in backend and frontend technologies.
+🎓 Learning and Sharing: Documenting my journey, from technical challenges to projects, aiming to help others along the way.
+🛠 Current Stack: .NET (Core 8), Angular, PostgreSQL, SQL, TypeScript
+🔍 Topics of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Development
+Frontend Development with Angular
+
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaGarce&show_icons=true&theme=radical)
